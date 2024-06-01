@@ -23,7 +23,7 @@ the device is outputting a fair amount of heat.
 
 The device is easily able to cut through cardboard, wood, and even metal when focused into a central point.
 
-![Alt Text]https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150749_808.jpg)
+![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150749_808.jpg)
 
 
 # Parts
