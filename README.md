@@ -23,12 +23,10 @@ is being powered by a 144Wh 40V Ryobi battery. At first the battery seemed like 
 I was trying to build a custom 18650 battery array, but it turned out to be perfect for it. These 40V Ryobi batteries
 are 18650 arrays to begin with
 
-![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_151150_968.jpg)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PLs9ETUjOXo/0.jpg)](https://www.youtube.com/watch?v=PLs9ETUjOXo)
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150853_114.jpg)
-
-
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150749_808.jpg)
-[![Watch the video](https://img.youtube.com/vi/PLs9ETUjOXo/maxresdefault.jpg)](https://youtu.be/PLs9ETUjOXo?si=6A1YtqCbAzBukp0I)
+
 
 # Device Parts
 
