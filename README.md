@@ -42,7 +42,7 @@ The [NUBM37-125W Laser Diode Array](https://www.ebay.com/itm/313906557893?itmmet
 
 The [](https://www.amazon.com/gp/product/B08FFLCXZM/ref=ox_sc_act_title_3?smid=AIJ7WJJN4HG6E&th=1) LIDAR Sensor, which has a randing capablility of up to 100m.
 
-The[Thermalright Assassin X120 Refined SE CPU Air Cooler](https://www.amazon.com/dp/B09LHBFPJ6?psc=1&ref=ppx_yo2ov_dt_b_product_details) is used for cooling
+The [Thermalright Assassin X120 Refined SE CPU Air Cooler](https://www.amazon.com/dp/B09LHBFPJ6?psc=1&ref=ppx_yo2ov_dt_b_product_details) is used for cooling
 the laser diode array as it generates a tremendous amount of heat, and it must be dissipated or the heat will damage the diode array. At full power, this 
 cooler does get quite warm, but it does its job keeping the laser cool, especially at full power.
 
