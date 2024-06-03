@@ -28,7 +28,7 @@ are 18650 arrays to begin with
 
 
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150749_808.jpg)
-[![Watch the video](https://img.youtube.com/vi/fkfXzetcr7Q/maxresdefault.jpg)](https://youtu.be/fkfXzetcr7Q)
+[![Watch the video](https://img.youtube.com/vi/PLs9ETUjOXo/maxresdefault.jpg)](https://youtu.be/PLs9ETUjOXo?si=6A1YtqCbAzBukp0I)
 
 # Device Parts
 
