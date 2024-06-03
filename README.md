@@ -24,7 +24,7 @@ I was trying to build a custom 18650 battery array, but it turned out to be perf
 are 18650 arrays to begin with
 
 <div align="center">
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PLs9ETUjOXo/0.jpg)](https://www.youtube.com/watch?v=PLs9ETUjOXo)
+	[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PLs9ETUjOXo/0.jpg)](https://www.youtube.com/watch?v=PLs9ETUjOXo)
 </div>
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150853_114.jpg)
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150749_808.jpg)
