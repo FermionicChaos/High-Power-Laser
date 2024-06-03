@@ -15,6 +15,10 @@ for a wrist laser.
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240531_123011_627.jpg)
 
 
+## YouTube Video
+-----
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PLs9ETUjOXo/0.jpg)](https://www.youtube.com/watch?v=PLs9ETUjOXo)
+
 # Device Operation
 
 As of right now, the 126 Watt Laser Rifle is successfully operating at full power, which means that
@@ -23,7 +27,7 @@ is being powered by a 144Wh 40V Ryobi battery. At first the battery seemed like 
 I was trying to build a custom 18650 battery array, but it turned out to be perfect for it. These 40V Ryobi batteries
 are 18650 arrays to begin with
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PLs9ETUjOXo/0.jpg)](https://www.youtube.com/watch?v=PLs9ETUjOXo)
+
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150853_114.jpg)
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150749_808.jpg)
 
