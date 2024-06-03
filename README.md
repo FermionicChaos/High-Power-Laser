@@ -26,10 +26,9 @@ are 18650 arrays to begin with
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_151150_968.jpg)
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150853_114.jpg)
 
-The device is easily able to cut through cardboard, wood, and even metal when focused into a central point.
 
 ![Alt Text](https://github.com/FermionicChaos/126WattLaserRifle/blob/master/images/IMG_20240601_150749_808.jpg)
-[![Video Title](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/fkfXzetcr7Q "Video Title")
+[![Watch the video](https://img.youtube.com/vi/fkfXzetcr7Q/maxresdefault.jpg)](https://youtu.be/fkfXzetcr7Q)
 
 # Device Parts
 
