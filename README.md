@@ -17,7 +17,7 @@ for a wrist laser.
 
 ## YouTube Video
 -----
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PLs9ETUjOXo/maxresdefault.jpg)](https://www.youtube.com/watch?v=PLs9ETUjOXo)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PLs9ETUjOXo/maxresdefault.jpg)](https://youtu.be/Iat4unp_1C8?si=nulK9uphw7UVeOMm)
 
 # Device Operation
 
